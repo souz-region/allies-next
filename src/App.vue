@@ -1,11 +1,18 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useNetwork } from './composables/useNetwork'
+import { Button } from '@/components/ui/button'
+
+const { isOnline } = useNetwork()
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="min-h-screen flex flex-col items-center justify-center bg-gray-50 p-6">
+    <div v-if="!isOnline" class="w-full bg-red-500 text-white text-center py-2 mb-4 rounded-lg">
+      Вы оффлайн. Некоторые функции могут быть недоступны.
+    </div>
+    <h1 class="text-2xl font-bold mb-4">Shadcn Vue + PWA</h1>
+    <Button>Кнопка</Button>
+  </div>
 </template>
 
 <style scoped></style>
