@@ -35,7 +35,9 @@
         Вы оффлайн. Некоторые функции могут быть недоступны.
       </div>
 
-      <RouterView />
+      <div class="container mx-auto">
+        <RouterView />
+      </div>
     </main>
   </div>
 </template>

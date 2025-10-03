@@ -1,0 +1,1792 @@
+[
+  {
+    "new": [
+      {
+        "order": "577b1c70-a043-11f0-8396-3cecef7ebe1f",
+        "number": "х00049029",
+        "date": "03.10.2025 13:25:54",
+        "distance": "3 274,3",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "рабочий посёлок Обухово",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.825103,
+        "loadingLon": 38.246609,
+        "loadingDate": "2025-10-12T00:00:00",
+        "loadingDateTo": "2025-10-12T00:00:00",
+        "unloading": "Новосибирск",
+        "reg_unloading": "Новосибирская область",
+        "unloadingLat": 54.870927,
+        "unloadingLon": 82.940723,
+        "unloadingDate": "2025-10-19T00:00:00",
+        "unloadingDateTo": "2025-10-19T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Смирнов Дмитрий Андреевич",
+        "logistInfo": [
+          {
+            "tel": "79655854834"
+          },
+          {
+            "email": "9655854834@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "4ff67471-a044-11f0-8396-3cecef7ebe1f",
+        "number": "х00049035",
+        "date": "03.10.2025 13:33:00",
+        "distance": "1 744",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-11T18:00:00",
+        "loadingDateTo": "2025-10-11T23:00:00",
+        "unloading": "Индустриальный парк Полевой",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.681987,
+        "unloadingLon": 60.72252,
+        "unloadingDate": "2025-10-14T04:30:00",
+        "unloadingDateTo": "2025-10-14T04:50:00",
+        "comment": "Общая стоимость груза 9424178",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "2d7c7fdb-a04e-11f0-8396-3cecef7ebe1f",
+        "number": "х00049072",
+        "date": "03.10.2025 14:43:31",
+        "distance": "1 646,1",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 115000,
+        "fuel": 0,
+        "loading": "Невинномысск",
+        "reg_loading": "Ставропольский край",
+        "loadingLat": 44.662814,
+        "loadingLon": 41.895601,
+        "loadingDate": "2025-10-10T00:00:00",
+        "loadingDateTo": "2025-10-10T00:00:00",
+        "unloading": "Зеленодольск",
+        "reg_unloading": "Республика Татарстан",
+        "unloadingLat": 55.848721,
+        "unloadingLon": 48.842408,
+        "unloadingDate": "2025-10-11T00:00:00",
+        "unloadingDateTo": "2025-10-11T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Гиздатуллина Ильзира Илусовна",
+        "logistInfo": [
+          {
+            "tel": "79600801982"
+          },
+          {
+            "email": "9600801982@souz-logist.ru"
+          },
+          {
+            "telegram": "8269950201"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "83309e7a-a046-11f0-8396-3cecef7ebe1f",
+        "number": "х00049043",
+        "date": "03.10.2025 13:48:36",
+        "distance": "1 038,5",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-10T18:00:00",
+        "loadingDateTo": "2025-10-10T23:00:00",
+        "unloading": "посёлок Дорожный",
+        "reg_unloading": "Ростовская область",
+        "unloadingLat": 47.126827,
+        "unloadingLon": 39.901647,
+        "unloadingDate": "2025-10-12T00:15:00",
+        "unloadingDateTo": "2025-10-12T00:40:00",
+        "comment": "Общая стоимость груза 10443828",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "29082df3-9f8f-11f0-8396-3cecef7ebe1f",
+        "number": "х00048860",
+        "date": "02.10.2025 15:56:12",
+        "distance": "1 038,5",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-09T18:00:00",
+        "loadingDateTo": "2025-10-09T22:00:00",
+        "unloading": "посёлок Дорожный",
+        "reg_unloading": "Ростовская область",
+        "unloadingLat": 47.126827,
+        "unloadingLon": 39.901647,
+        "unloadingDate": "2025-10-11T01:00:00",
+        "unloadingDateTo": "2025-10-11T01:10:00",
+        "comment": "Общая стоимость груза 7638154",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "951176c5-9f7d-11f0-8396-3cecef7ebe1f",
+        "number": "х00048837",
+        "date": "02.10.2025 13:50:26",
+        "distance": "632,2",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Краснодар",
+        "reg_loading": "Краснодарский край",
+        "loadingLat": 45.065807,
+        "loadingLon": 38.895363,
+        "loadingDate": "2025-10-09T09:00:00",
+        "loadingDateTo": "2025-10-09T15:00:00",
+        "unloading": "Владикавказ",
+        "reg_unloading": "Республика Северная Осетия — Алания",
+        "unloadingLat": 43.058991,
+        "unloadingLon": 44.648623,
+        "unloadingDate": "2025-10-10T09:00:00",
+        "unloadingDateTo": "2025-10-10T15:00:00",
+        "comment": "5 000 000 ",
+        "forwarding": "Да",
+        "logist": "Сиряченко Сергей Олегович",
+        "logistInfo": [
+          {
+            "tel": "79061146144"
+          },
+          {
+            "email": "9061146144@souz-logist.ru"
+          },
+          {
+            "telegram": "5140443093"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "21657986-a043-11f0-8396-3cecef7ebe1f",
+        "number": "х00049027",
+        "date": "03.10.2025 13:24:27",
+        "distance": "3 274,3",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "рабочий посёлок Обухово",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.825103,
+        "loadingLon": 38.246609,
+        "loadingDate": "2025-10-09T10:00:00",
+        "loadingDateTo": "2025-10-09T16:00:00",
+        "unloading": "Новосибирск",
+        "reg_unloading": "Новосибирская область",
+        "unloadingLat": 54.870927,
+        "unloadingLon": 82.940723,
+        "unloadingDate": "2025-10-16T09:00:00",
+        "unloadingDateTo": "2025-10-16T10:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Смирнов Дмитрий Андреевич",
+        "logistInfo": [
+          {
+            "tel": "79655854834"
+          },
+          {
+            "email": "9655854834@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "176be10c-a04b-11f0-8396-3cecef7ebe1f",
+        "number": "х00049057",
+        "date": "03.10.2025 14:21:22",
+        "distance": "884,2",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Екатеринбург",
+        "reg_loading": "Свердловская область",
+        "loadingLat": 56.897468,
+        "loadingLon": 60.519429,
+        "loadingDate": "2025-10-09T00:00:00",
+        "loadingDateTo": "2025-10-09T00:00:00",
+        "unloading": "индустриальный парк Новосемейкино",
+        "reg_unloading": "Самарская область",
+        "unloadingLat": 53.38944,
+        "unloadingLon": 50.333135,
+        "unloadingDate": "2025-10-10T00:00:00",
+        "unloadingDateTo": "2025-10-10T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "43e97635-a04b-11f0-8396-3cecef7ebe1f",
+        "number": "х00049060",
+        "date": "03.10.2025 14:22:35",
+        "distance": "884,2",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Екатеринбург",
+        "reg_loading": "Свердловская область",
+        "loadingLat": 56.897468,
+        "loadingLon": 60.519429,
+        "loadingDate": "2025-10-08T00:00:00",
+        "loadingDateTo": "2025-10-08T00:00:00",
+        "unloading": "индустриальный парк Новосемейкино",
+        "reg_unloading": "Самарская область",
+        "unloadingLat": 53.38944,
+        "unloadingLon": 50.333135,
+        "unloadingDate": "2025-10-09T00:00:00",
+        "unloadingDateTo": "2025-10-09T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "7c7d8881-9e8d-11f0-8396-3cecef7ebe1f",
+        "number": "х00048587",
+        "date": "01.10.2025 9:11:36",
+        "distance": "1 744",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-08T18:00:00",
+        "loadingDateTo": "2025-10-08T22:00:00",
+        "unloading": "Индустриальный парк Полевой",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.681987,
+        "unloadingLon": 60.72252,
+        "unloadingDate": "2025-10-11T04:30:00",
+        "unloadingDateTo": "2025-10-11T04:50:00",
+        "comment": "Общая стоимость груза 12 003 104",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "4a358085-9f9c-11f0-8396-3cecef7ebe1f",
+        "number": "х00048917",
+        "date": "02.10.2025 17:30:06",
+        "distance": "795,4",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-08T09:00:00",
+        "loadingDateTo": "2025-10-08T18:00:00",
+        "unloading": "Свердловское городское поселение",
+        "reg_unloading": "Ленинградская область",
+        "unloadingLat": 59.865768,
+        "unloadingLon": 30.522696,
+        "unloadingDate": "2025-10-09T08:30:00",
+        "unloadingDateTo": "2025-10-09T08:50:00",
+        "comment": "Общая стоимость груза 10071894",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "969ac98d-9f70-11f0-8396-3cecef7ebe1f",
+        "number": "х00048816",
+        "date": "02.10.2025 12:17:16",
+        "distance": "795,4",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-08T08:00:00",
+        "loadingDateTo": "2025-10-08T17:00:00",
+        "unloading": "Свердловское городское поселение",
+        "reg_unloading": "Ленинградская область",
+        "unloadingLat": 59.865768,
+        "unloadingLon": 30.522696,
+        "unloadingDate": "2025-10-09T10:30:00",
+        "unloadingDateTo": "2025-10-09T11:00:00",
+        "comment": "Общая стоимость груза 7161936",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "eca9fb4f-a024-11f0-8396-3cecef7ebe1f",
+        "number": "х00048957",
+        "date": "03.10.2025 9:48:09",
+        "distance": "0",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.122406,
+        "loadingLon": 37.545312,
+        "loadingDate": "2025-10-08T00:00:00",
+        "loadingDateTo": "2025-10-08T00:00:00",
+        "unloading": "село Новосёлки",
+        "reg_unloading": "Московская область",
+        "unloadingLat": 55.122406,
+        "unloadingLon": 37.545312,
+        "unloadingDate": "2025-10-10T00:00:00",
+        "unloadingDateTo": "2025-10-10T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Долбилина Кристина Юрьевна",
+        "logistInfo": [
+          {
+            "tel": "79625643418"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "40f249fb-9e9f-11f0-8396-3cecef7ebe1f",
+        "number": "х00048621",
+        "date": "01.10.2025 11:18:48",
+        "distance": "8 296,7",
+        "typets": "84 Реф",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Хабаровск",
+        "reg_loading": "Хабаровский край",
+        "loadingLat": 48.480229,
+        "loadingLon": 135.071917,
+        "loadingDate": "2025-10-08T08:00:00",
+        "loadingDateTo": "2025-10-08T15:00:00",
+        "unloading": "Москва",
+        "reg_unloading": "Москва",
+        "unloadingLat": 55.755819,
+        "unloadingLon": 37.617644,
+        "unloadingDate": "2025-10-21T08:00:00",
+        "unloadingDateTo": "2025-10-21T12:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "0e2d2c91-a033-11f0-8396-3cecef7ebe1f",
+        "number": "х00049008",
+        "date": "03.10.2025 11:29:24",
+        "distance": "5 059,1",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 380000,
+        "fuel": 0,
+        "loading": "посёлок Случайный",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.74639,
+        "loadingLon": 38.417711,
+        "loadingDate": "2025-10-07T00:00:00",
+        "loadingDateTo": "2025-10-07T00:00:00",
+        "unloading": "Иркутск",
+        "reg_unloading": "Иркутская область",
+        "unloadingLat": 52.319693,
+        "unloadingLon": 104.248015,
+        "unloadingDate": "2025-10-10T00:00:00",
+        "unloadingDateTo": "2025-10-10T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Каюмов Артур Рустемович",
+        "logistInfo": [
+          {
+            "tel": "79520434900"
+          },
+          {
+            "email": "9520434900@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "dfcd3b4f-a024-11f0-8396-3cecef7ebe1f",
+        "number": "х00048956",
+        "date": "03.10.2025 9:47:48",
+        "distance": "0",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.122406,
+        "loadingLon": 37.545312,
+        "loadingDate": "2025-10-07T00:00:00",
+        "loadingDateTo": "2025-10-07T00:00:00",
+        "unloading": "село Новосёлки",
+        "reg_unloading": "Московская область",
+        "unloadingLat": 55.122406,
+        "unloadingLon": 37.545312,
+        "unloadingDate": "2025-10-09T00:00:00",
+        "unloadingDateTo": "2025-10-09T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Долбилина Кристина Юрьевна",
+        "logistInfo": [
+          {
+            "tel": "79625643418"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "b20b7689-9f67-11f0-8396-3cecef7ebe1f",
+        "number": "х00048795",
+        "date": "02.10.2025 11:13:35",
+        "distance": "795,4",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-07T08:00:00",
+        "loadingDateTo": "2025-10-07T17:00:00",
+        "unloading": "Свердловское городское поселение",
+        "reg_unloading": "Ленинградская область",
+        "unloadingLat": 59.865768,
+        "unloadingLon": 30.522696,
+        "unloadingDate": "2025-10-08T11:30:00",
+        "unloadingDateTo": "2025-10-08T11:50:00",
+        "comment": "Общая стоимость груза 5533152",
+        "forwarding": "Да",
+        "logist": "Костенко Юрий Александрович",
+        "logistInfo": [
+          {
+            "tel": "79600576610"
+          },
+          {
+            "email": "9600576610@souz-logist.ru"
+          },
+          {
+            "telegram": "6562605686"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "156dc866-a049-11f0-8396-3cecef7ebe1f",
+        "number": "х00049051",
+        "date": "03.10.2025 14:07:07",
+        "distance": "1 646,1",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 115000,
+        "fuel": 0,
+        "loading": "Невинномысск",
+        "reg_loading": "Ставропольский край",
+        "loadingLat": 44.662814,
+        "loadingLon": 41.895601,
+        "loadingDate": "2025-10-07T00:00:00",
+        "loadingDateTo": "2025-10-07T00:00:00",
+        "unloading": "Зеленодольск",
+        "reg_unloading": "Республика Татарстан",
+        "unloadingLat": 55.848721,
+        "unloadingLon": 48.842408,
+        "unloadingDate": "2025-10-08T00:00:00",
+        "unloadingDateTo": "2025-10-08T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Ратников Владислав Александрович",
+        "logistInfo": [
+          {
+            "tel": "9625531527"
+          },
+          {
+            "email": "9625531527@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "e91ff42a-a032-11f0-8396-3cecef7ebe1f",
+        "number": "х00049007",
+        "date": "03.10.2025 11:28:24",
+        "distance": "5 048,5",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 400000,
+        "fuel": 0,
+        "loading": "рабочий посёлок Обухово",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.824642,
+        "loadingLon": 38.238677,
+        "loadingDate": "2025-10-07T00:00:00",
+        "loadingDateTo": "2025-10-07T00:00:00",
+        "unloading": "Иркутск",
+        "reg_unloading": "Иркутская область",
+        "unloadingLat": 52.319693,
+        "unloadingLon": 104.248015,
+        "unloadingDate": "2025-10-11T00:00:00",
+        "unloadingDateTo": "2025-10-11T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Каюмов Артур Рустемович",
+        "logistInfo": [
+          {
+            "tel": "79520434900"
+          },
+          {
+            "email": "9520434900@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "7b8c14a4-9f7d-11f0-8396-3cecef7ebe1f",
+        "number": "х00048835",
+        "date": "02.10.2025 13:49:34",
+        "distance": "632,2",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Краснодар",
+        "reg_loading": "Краснодарский край",
+        "loadingLat": 45.065807,
+        "loadingLon": 38.895363,
+        "loadingDate": "2025-10-07T09:00:00",
+        "loadingDateTo": "2025-10-07T15:00:00",
+        "unloading": "Владикавказ",
+        "reg_unloading": "Республика Северная Осетия — Алания",
+        "unloadingLat": 43.058991,
+        "unloadingLon": 44.648623,
+        "unloadingDate": "2025-10-08T06:00:00",
+        "unloadingDateTo": "2025-10-08T15:00:00",
+        "comment": "5 000 000 ",
+        "forwarding": "Да",
+        "logist": "Сиряченко Сергей Олегович",
+        "logistInfo": [
+          {
+            "tel": "79061146144"
+          },
+          {
+            "email": "9061146144@souz-logist.ru"
+          },
+          {
+            "telegram": "5140443093"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "f4c40cd3-a04a-11f0-8396-3cecef7ebe1f",
+        "number": "х00049056",
+        "date": "03.10.2025 14:20:24",
+        "distance": "882,3",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 100000,
+        "fuel": 0,
+        "loading": "индустриальный парк Новосемейкино",
+        "reg_loading": "Самарская область",
+        "loadingLat": 53.38944,
+        "loadingLon": 50.333135,
+        "loadingDate": "2025-10-07T00:00:00",
+        "loadingDateTo": "2025-10-07T00:00:00",
+        "unloading": "Екатеринбург",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.897468,
+        "unloadingLon": 60.519429,
+        "unloadingDate": "2025-10-08T00:00:00",
+        "unloadingDateTo": "2025-10-08T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "26937a4c-a032-11f0-8396-3cecef7ebe1f",
+        "number": "х00049002",
+        "date": "03.10.2025 11:22:51",
+        "distance": "1 842,1",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Криводановские дачи",
+        "reg_loading": "Новосибирская область",
+        "loadingLat": 55.056037,
+        "loadingLon": 82.637945,
+        "loadingDate": "2025-10-06T08:00:00",
+        "loadingDateTo": "2025-10-06T16:00:00",
+        "unloading": "Иркутск",
+        "reg_unloading": "Иркутская область",
+        "unloadingLat": 52.345927,
+        "unloadingLon": 104.195671,
+        "unloadingDate": "2025-10-08T08:00:00",
+        "unloadingDateTo": "2025-10-08T14:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "330ec311-a04b-11f0-8396-3cecef7ebe1f",
+        "number": "х00049058",
+        "date": "03.10.2025 14:22:08",
+        "distance": "882,3",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 100000,
+        "fuel": 0,
+        "loading": "индустриальный парк Новосемейкино",
+        "reg_loading": "Самарская область",
+        "loadingLat": 53.38944,
+        "loadingLon": 50.333135,
+        "loadingDate": "2025-10-06T00:00:00",
+        "loadingDateTo": "2025-10-06T00:00:00",
+        "unloading": "Екатеринбург",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.897468,
+        "unloadingLon": 60.519429,
+        "unloadingDate": "2025-10-07T00:00:00",
+        "unloadingDateTo": "2025-10-07T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "48ca2301-9e6e-11f0-8396-3cecef7ebe1f",
+        "number": "х00048573",
+        "date": "01.10.2025 5:28:15",
+        "distance": "4 981,1",
+        "typets": "110 Тент, 20 т.",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Новосибирск",
+        "reg_loading": "Новосибирская область",
+        "loadingLat": 54.957991,
+        "loadingLon": 82.926772,
+        "loadingDate": "2025-10-06T08:00:00",
+        "loadingDateTo": "2025-10-06T13:00:00",
+        "unloading": "Якутск",
+        "reg_unloading": "Республика Саха (Якутия)",
+        "unloadingLat": 62.027221,
+        "unloadingLon": 129.732178,
+        "unloadingDate": "2025-10-14T08:00:00",
+        "unloadingDateTo": "2025-10-14T12:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "15246790-a04e-11f0-8396-3cecef7ebe1f",
+        "number": "х00049071",
+        "date": "03.10.2025 14:42:53",
+        "distance": "1 399,4",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Краснознаменск",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.607946,
+        "loadingLon": 37.021136,
+        "loadingDate": "2025-10-06T11:00:00",
+        "loadingDateTo": "2025-10-06T13:00:00",
+        "unloading": "Краснодар",
+        "reg_unloading": "Краснодарский край",
+        "unloadingLat": 45.054455,
+        "unloadingLon": 39.068855,
+        "unloadingDate": "2025-10-07T16:30:00",
+        "unloadingDateTo": "2025-10-07T16:40:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Николенко Евгений Иванович",
+        "logistInfo": [
+          {
+            "tel": "79061197242"
+          },
+          {
+            "email": "9061197242@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "e6dde35f-a04d-11f0-8396-3cecef7ebe1f",
+        "number": "х00049069",
+        "date": "03.10.2025 14:41:29",
+        "distance": "1 399,4",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Краснознаменск",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.607946,
+        "loadingLon": 37.021136,
+        "loadingDate": "2025-10-06T11:00:00",
+        "loadingDateTo": "2025-10-06T13:00:00",
+        "unloading": "Краснодар",
+        "reg_unloading": "Краснодарский край",
+        "unloadingLat": 45.054455,
+        "unloadingLon": 39.068855,
+        "unloadingDate": "2025-10-07T16:30:00",
+        "unloadingDateTo": "2025-10-07T16:40:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Николенко Евгений Иванович",
+        "logistInfo": [
+          {
+            "tel": "79061197242"
+          },
+          {
+            "email": "9061197242@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "54bc3a28-9e86-11f0-8396-3cecef7ebe1f",
+        "number": "х00048578",
+        "date": "01.10.2025 8:20:23",
+        "distance": "1 293,6",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Амурск",
+        "reg_loading": "Хабаровский край",
+        "loadingLat": 50.226797,
+        "loadingLon": 136.910607,
+        "loadingDate": "2025-10-06T08:00:00",
+        "loadingDateTo": "2025-10-06T15:00:00",
+        "unloading": "Находка",
+        "reg_unloading": "Приморский край",
+        "unloadingLat": 42.824043,
+        "unloadingLon": 132.89282,
+        "unloadingDate": "2025-10-08T08:00:00",
+        "unloadingDateTo": "2025-10-08T15:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "e9e5bfdf-a043-11f0-8396-3cecef7ebe1f",
+        "number": "х00049033",
+        "date": "03.10.2025 13:30:00",
+        "distance": "557,9",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Пушкино",
+        "reg_loading": "Московская область",
+        "loadingLat": 56.040128,
+        "loadingLon": 37.877293,
+        "loadingDate": "2025-10-06T13:00:00",
+        "loadingDateTo": "2025-10-06T14:00:00",
+        "unloading": "посёлок Солнечный",
+        "reg_unloading": "Воронежская область",
+        "unloadingLat": 51.789819,
+        "unloadingLon": 39.196703,
+        "unloadingDate": "2025-10-07T09:00:00",
+        "unloadingDateTo": "2025-10-07T10:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Сиряченко Сергей Олегович",
+        "logistInfo": [
+          {
+            "tel": "79061146144"
+          },
+          {
+            "email": "9061146144@souz-logist.ru"
+          },
+          {
+            "telegram": "5140443093"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "0262bf0f-a044-11f0-8396-3cecef7ebe1f",
+        "number": "х00049034",
+        "date": "03.10.2025 13:30:41",
+        "distance": "536,1",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Пушкино",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.993197,
+        "loadingLon": 37.872604,
+        "loadingDate": "2025-10-06T15:00:00",
+        "loadingDateTo": "2025-10-06T16:00:00",
+        "unloading": "посёлок Солнечный",
+        "reg_unloading": "Воронежская область",
+        "unloadingLat": 51.789819,
+        "unloadingLon": 39.196703,
+        "unloadingDate": "2025-10-07T09:00:00",
+        "unloadingDateTo": "2025-10-07T10:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Сиряченко Сергей Олегович",
+        "logistInfo": [
+          {
+            "tel": "79061146144"
+          },
+          {
+            "email": "9061146144@souz-logist.ru"
+          },
+          {
+            "telegram": "5140443093"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "cba1e42f-a022-11f0-8396-3cecef7ebe1f",
+        "number": "х00048949",
+        "date": "03.10.2025 9:32:55",
+        "distance": "5 022",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Новосибирск",
+        "reg_loading": "Новосибирская область",
+        "loadingLat": 55.011268,
+        "loadingLon": 82.80911,
+        "loadingDate": "2025-10-05T08:00:00",
+        "loadingDateTo": "2025-10-05T23:55:00",
+        "unloading": "Хабаровск",
+        "reg_unloading": "Хабаровский край",
+        "unloadingLat": 48.480229,
+        "unloadingLon": 135.071917,
+        "unloadingDate": "2025-10-11T08:00:00",
+        "unloadingDateTo": "2025-10-11T15:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "3bbe2332-9f66-11f0-8396-3cecef7ebe1f",
+        "number": "х00048791",
+        "date": "02.10.2025 11:03:08",
+        "distance": "2 173,2",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 90000,
+        "fuel": 0,
+        "loading": "Новосибирск",
+        "reg_loading": "Новосибирская область",
+        "loadingLat": 55.045944,
+        "loadingLon": 83.035261,
+        "loadingDate": "2025-10-05T00:00:00",
+        "loadingDateTo": "2025-10-05T00:00:00",
+        "unloading": "Сарапул",
+        "reg_unloading": "Удмуртская Республика",
+        "unloadingLat": 56.481061,
+        "unloadingLon": 53.691577,
+        "unloadingDate": "2025-10-08T00:00:00",
+        "unloadingDateTo": "2025-10-08T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Шкандин Антон Дмитриевич",
+        "logistInfo": [
+          {
+            "tel": "79673698186"
+          },
+          {
+            "email": "9673698186@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "26937a4d-a032-11f0-8396-3cecef7ebe1f",
+        "number": "х00049001",
+        "date": "03.10.2025 11:22:50",
+        "distance": "760,6",
+        "typets": "Тент/реф, 20 т",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "муниципальное образование Елабуга",
+        "reg_loading": "Республика Татарстан",
+        "loadingLat": 55.854244,
+        "loadingLon": 51.987104,
+        "loadingDate": "2025-10-05T00:00:00",
+        "loadingDateTo": "2025-10-05T00:00:00",
+        "unloading": "Челябинск",
+        "reg_unloading": "Челябинская область",
+        "unloadingLat": 55.228521,
+        "unloadingLon": 61.325218,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Мазин Иван Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79673698168"
+          },
+          {
+            "email": "9673698168@souz-logist.ru"
+          },
+          {
+            "telegram": "6882714366"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "9c537bc5-9eb8-11f0-8396-3cecef7ebe1f",
+        "number": "х00048659",
+        "date": "01.10.2025 14:20:19",
+        "distance": "1 232,8",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 110000,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-05T00:00:00",
+        "loadingDateTo": "2025-10-05T00:00:00",
+        "unloading": "село Преображенка",
+        "reg_unloading": "Самарская область",
+        "unloadingLat": 53.090644,
+        "unloadingLon": 50.131122,
+        "unloadingDate": "2025-10-08T00:00:00",
+        "unloadingDateTo": "2025-10-08T00:00:00",
+        "comment": "Стоимость груза 17 113 819",
+        "forwarding": "Да",
+        "logist": "Тимергалин Айрат Фаатович",
+        "logistInfo": [
+          {
+            "tel": "79625644310"
+          },
+          {
+            "email": "9625644310@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "d8b71c02-9f93-11f0-8396-3cecef7ebe1f",
+        "number": "х00048899",
+        "date": "02.10.2025 16:29:43",
+        "distance": "907,3",
+        "typets": "а/м № 3 - 5 т. 5,5х2,3х2,3 м",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Екатеринбург",
+        "reg_loading": "Свердловская область",
+        "loadingLat": 56.723882,
+        "loadingLon": 60.576867,
+        "loadingDate": "2025-10-04T00:00:00",
+        "loadingDateTo": "2025-10-04T00:00:00",
+        "unloading": "Самара",
+        "reg_unloading": "Самарская область",
+        "unloadingLat": 53.191821,
+        "unloadingLon": 50.255,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "Заезд на склад с улицы - 2-й Системный переулок¶Тел. 8 (343) 297-97-93; Координаты 56.722797 60.582854, ПРИСУТСТВИЕ ВОДИТЕЛЯ НА ПОГРУЗКЕ ОБЯЗАТЕЛЬНО!!!",
+        "forwarding": "Да",
+        "logist": "Шкандин Антон Дмитриевич",
+        "logistInfo": [
+          {
+            "tel": "79673698186"
+          },
+          {
+            "email": "9673698186@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "aabd5e9b-a035-11f0-8396-3cecef7ebe1f",
+        "number": "х00049012",
+        "date": "03.10.2025 11:48:01",
+        "distance": "685,4",
+        "typets": "Тент/реф, 20 т",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "муниципальное образование Елабуга",
+        "reg_loading": "Республика Татарстан",
+        "loadingLat": 55.854244,
+        "loadingLon": 51.987104,
+        "loadingDate": "2025-10-04T00:00:00",
+        "loadingDateTo": "2025-10-04T00:00:00",
+        "unloading": "Екатеринбург",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.755615,
+        "unloadingLon": 60.77402,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Шарипов Наиль Ринатович",
+        "logistInfo": [
+          {
+            "tel": "79625530379"
+          },
+          {
+            "email": "9625530379@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "7afb1830-a02d-11f0-8396-3cecef7ebe1f",
+        "number": "х00048991",
+        "date": "03.10.2025 10:49:24",
+        "distance": "652",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Белгород",
+        "reg_loading": "Белгородская область",
+        "loadingLat": 50.60004,
+        "loadingLon": 36.603285,
+        "loadingDate": "2025-10-04T09:00:00",
+        "loadingDateTo": "2025-10-04T09:10:00",
+        "unloading": "посёлок Государственного племенного завода Константиново",
+        "reg_unloading": "Московская область",
+        "unloadingLat": 55.429578,
+        "unloadingLon": 37.709461,
+        "unloadingDate": "2025-10-05T08:00:00",
+        "unloadingDateTo": "2025-10-05T20:00:00",
+        "comment": "2 000 000 ",
+        "forwarding": "Да",
+        "logist": "Сиряченко Сергей Олегович",
+        "logistInfo": [
+          {
+            "tel": "79061146144"
+          },
+          {
+            "email": "9061146144@souz-logist.ru"
+          },
+          {
+            "telegram": "5140443093"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "d5bc792c-a02c-11f0-8396-3cecef7ebe1f",
+        "number": "х00048989",
+        "date": "03.10.2025 10:44:49",
+        "distance": "522,2",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Великие Луки",
+        "reg_loading": "Псковская область",
+        "loadingLat": 56.346561,
+        "loadingLon": 30.526918,
+        "loadingDate": "2025-10-04T09:00:00",
+        "loadingDateTo": "2025-10-04T09:10:00",
+        "unloading": "посёлок Государственного племенного завода Константиново",
+        "reg_unloading": "Московская область",
+        "unloadingLat": 55.429578,
+        "unloadingLon": 37.709461,
+        "unloadingDate": "2025-10-05T08:00:00",
+        "unloadingDateTo": "2025-10-05T20:00:00",
+        "comment": "2 000 000 ",
+        "forwarding": "Да",
+        "logist": "Николенко Евгений Иванович",
+        "logistInfo": [
+          {
+            "tel": "79061197242"
+          },
+          {
+            "email": "9061197242@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "8a19b056-9e8d-11f0-8396-3cecef7ebe1f",
+        "number": "х00048588",
+        "date": "01.10.2025 9:12:07",
+        "distance": "872,1",
+        "typets": "110 Тент, 20 т.",
+        "status": "2. В работе",
+        "price": 100000,
+        "fuel": 0,
+        "loading": "село Новосёлки",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.126946,
+        "loadingLon": 37.560673,
+        "loadingDate": "2025-10-04T00:00:00",
+        "loadingDateTo": "2025-10-04T00:00:00",
+        "unloading": "село Столбище",
+        "reg_unloading": "Республика Татарстан",
+        "unloadingLat": 55.633897,
+        "unloadingLon": 49.255121,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "Общая стоимость груза 12 841 056",
+        "forwarding": "Да",
+        "logist": "Ярмиева Алина Алмазовна",
+        "logistInfo": [
+          {
+            "tel": "79600802036"
+          },
+          {
+            "email": "9600802036@souz-logist.ru"
+          },
+          {
+            "telegram": "8216873149"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "1f977296-9db5-11f0-8396-3cecef7ebe1f",
+        "number": "х00048392",
+        "date": "30.09.2025 7:22:52",
+        "distance": "3 958,7",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Новокузнецк",
+        "reg_loading": "Кемеровская область",
+        "loadingLat": 53.785486,
+        "loadingLon": 87.262733,
+        "loadingDate": "2025-10-04T08:00:00",
+        "loadingDateTo": "2025-10-04T12:00:00",
+        "unloading": "Свободный",
+        "reg_unloading": "Амурская область",
+        "unloadingLat": 51.375889,
+        "unloadingLon": 128.134156,
+        "unloadingDate": "2025-10-09T08:00:00",
+        "unloadingDateTo": "2025-10-09T12:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "05e524be-9f5d-11f0-8396-3cecef7ebe1f",
+        "number": "х00048773",
+        "date": "02.10.2025 9:57:15",
+        "distance": "267,3",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 17000,
+        "fuel": 0,
+        "loading": "Зеленодольск",
+        "reg_loading": "Республика Татарстан",
+        "loadingLat": 55.848721,
+        "loadingLon": 48.842408,
+        "loadingDate": "2025-10-03T00:00:00",
+        "loadingDateTo": "2025-10-03T00:00:00",
+        "unloading": "Набережные Челны",
+        "reg_unloading": "Республика Татарстан",
+        "unloadingLat": 55.744389,
+        "unloadingLon": 52.479094,
+        "unloadingDate": "2025-10-03T00:00:00",
+        "unloadingDateTo": "2025-10-03T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Мухутдинов Амир Радикович",
+        "logistInfo": [
+          {
+            "tel": "89656066903"
+          },
+          {
+            "email": "9656066903@souz-logist.ru"
+          },
+          {
+            "telegram": "5435206459"
+          }
+        ],
+        "tripstatus": ""
+      }
+    ],
+    "current": [
+      {
+        "order": "53425765-9d9e-11f0-8396-3cecef7ebe1f",
+        "number": "х00048388",
+        "date": "30.09.2025 4:39:38",
+        "distance": "1 412,4",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Омск",
+        "reg_loading": "Омская область",
+        "loadingLat": 54.984765,
+        "loadingLon": 73.39862,
+        "loadingDate": "2025-10-03T08:00:00",
+        "loadingDateTo": "2025-10-03T14:00:00",
+        "unloading": "Красноярск",
+        "reg_unloading": "Красноярский край",
+        "unloadingLat": 56.021709,
+        "unloadingLon": 92.888118,
+        "unloadingDate": "2025-10-06T08:00:00",
+        "unloadingDateTo": "2025-10-06T13:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "9e14622b-9db5-11f0-8396-3cecef7ebe1f",
+        "number": "х00048393",
+        "date": "30.09.2025 7:26:22",
+        "distance": "3 958,7",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Новокузнецк",
+        "reg_loading": "Кемеровская область",
+        "loadingLat": 53.785486,
+        "loadingLon": 87.262733,
+        "loadingDate": "2025-10-03T08:00:00",
+        "loadingDateTo": "2025-10-03T13:00:00",
+        "unloading": "Свободный",
+        "reg_unloading": "Амурская область",
+        "unloadingLat": 51.375889,
+        "unloadingLon": 128.134156,
+        "unloadingDate": "2025-10-09T08:00:00",
+        "unloadingDateTo": "2025-10-09T13:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "8afb96ee-a04d-11f0-8396-3cecef7ebe1f",
+        "number": "х00049066",
+        "date": "03.10.2025 14:38:55",
+        "distance": "1 510,6",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "деревня Радумля",
+        "reg_loading": "Московская область",
+        "loadingLat": 56.084335,
+        "loadingLon": 37.155722,
+        "loadingDate": "2025-10-03T16:00:00",
+        "loadingDateTo": "2025-10-03T18:00:00",
+        "unloading": "Невинномысск",
+        "reg_unloading": "Ставропольский край",
+        "unloadingLat": 44.662814,
+        "unloadingLon": 41.895601,
+        "unloadingDate": "2025-10-04T21:30:00",
+        "unloadingDateTo": "2025-10-04T21:40:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Николенко Евгений Иванович",
+        "logistInfo": [
+          {
+            "tel": "79061197242"
+          },
+          {
+            "email": "9061197242@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "04828554-a006-11f0-8396-3cecef7ebe1f",
+        "number": "х00048933",
+        "date": "03.10.2025 6:07:05",
+        "distance": "857,1",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "посёлок Керамкомбинат",
+        "reg_loading": "Новосибирская область",
+        "loadingLat": 54.437518,
+        "loadingLon": 83.346878,
+        "loadingDate": "2025-10-03T00:00:00",
+        "loadingDateTo": "2025-10-03T00:00:00",
+        "unloading": "Красноярск",
+        "reg_unloading": "Красноярский край",
+        "unloadingLat": 56.010569,
+        "unloadingLon": 92.852572,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      },
+      {
+        "order": "e2c638d6-9ec8-11f0-8396-3cecef7ebe1f",
+        "number": "х00048723",
+        "date": "01.10.2025 16:16:48",
+        "distance": "1 665,6",
+        "typets": "92 Тент",
+        "status": "2. В работе",
+        "price": 170000,
+        "fuel": 0,
+        "loading": "Егорьевск",
+        "reg_loading": "Московская область",
+        "loadingLat": 55.3686,
+        "loadingLon": 38.997969,
+        "loadingDate": "2025-10-03T20:00:00",
+        "loadingDateTo": "2025-10-03T00:00:00",
+        "unloading": "Невинномысск",
+        "reg_unloading": "Ставропольский край",
+        "unloadingLat": 44.656435,
+        "unloadingLon": 41.937184,
+        "unloadingDate": "2025-10-07T00:00:00",
+        "unloadingDateTo": "2025-10-07T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Шкандин Антон Дмитриевич",
+        "logistInfo": [
+          {
+            "tel": "79673698186"
+          },
+          {
+            "email": "9673698186@souz-logist.ru"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "df882d8b-9f82-11f0-8396-3cecef7ebe1f",
+        "number": "х00048851",
+        "date": "02.10.2025 14:28:09",
+        "distance": "1 952,2",
+        "typets": "Тент/реф, 20 т",
+        "status": "2. В работе",
+        "price": 0,
+        "fuel": 0,
+        "loading": "Набережные Челны",
+        "reg_loading": "Республика Татарстан",
+        "loadingLat": 55.702744,
+        "loadingLon": 52.463472,
+        "loadingDate": "2025-10-03T00:00:00",
+        "loadingDateTo": "2025-10-03T00:00:00",
+        "unloading": "Краснодар",
+        "reg_unloading": "Краснодарский край",
+        "unloadingLat": 45.105263,
+        "unloadingLon": 39.122789,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "Стоимость груза (с НДС): 2 339 940 RUB",
+        "forwarding": "Да",
+        "logist": "Гиздатуллина Ильзира Илусовна",
+        "logistInfo": [
+          {
+            "tel": "79600801982"
+          },
+          {
+            "email": "9600801982@souz-logist.ru"
+          },
+          {
+            "telegram": "8269950201"
+          }
+        ],
+        "tripstatus": ""
+      },
+      {
+        "order": "2899e17e-9f92-11f0-8396-3cecef7ebe1f",
+        "number": "х00048887",
+        "date": "02.10.2025 16:17:34",
+        "distance": "0",
+        "typets": "92 Тент",
+        "status": "1. Новая",
+        "price": 0,
+        "fuel": 0,
+        "loading": "индустриальный парк Новосемейкино",
+        "reg_loading": "Самарская область",
+        "loadingLat": 53.38944,
+        "loadingLon": 50.333135,
+        "loadingDate": "2025-10-03T00:00:00",
+        "loadingDateTo": "2025-10-03T00:00:00",
+        "unloading": "Красноярск",
+        "reg_unloading": "Красноярский край",
+        "unloadingLat": 56.103758,
+        "unloadingLon": 93.070763,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "",
+        "logistInfo": [],
+        "tripstatus": ""
+      }
+    ],
+    "closed": [
+      {
+        "order": "32665f70-9ec5-11f0-8396-3cecef7ebe1f",
+        "number": "х00048714",
+        "date": "01.10.2025 15:50:23",
+        "distance": "900,9",
+        "typets": "92 Тент",
+        "status": "4. Заказ",
+        "price": 46000,
+        "fuel": 0,
+        "loading": "Екатеринбург",
+        "reg_loading": "Свердловская область",
+        "loadingLat": 56.767609,
+        "loadingLon": 60.81316,
+        "loadingDate": "2025-10-05T00:00:00",
+        "loadingDateTo": "2025-10-05T00:00:00",
+        "unloading": "индустриальный парк Новосемейкино",
+        "reg_unloading": "Самарская область",
+        "unloadingLat": 53.38944,
+        "unloadingLon": 50.333135,
+        "unloadingDate": "2025-10-06T00:00:00",
+        "unloadingDateTo": "2025-10-06T00:00:00",
+        "comment": "",
+        "forwarding": "Нет",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": "Согласован"
+      },
+      {
+        "order": "fb4b13f6-9ec2-11f0-8396-3cecef7ebe1f",
+        "number": "х00048709",
+        "date": "01.10.2025 15:34:32",
+        "distance": "895,2",
+        "typets": "92 Тент",
+        "status": "4. Заказ",
+        "price": 84000,
+        "fuel": 0,
+        "loading": "индустриальный парк Новосемейкино",
+        "reg_loading": "Самарская область",
+        "loadingLat": 53.38944,
+        "loadingLon": 50.333135,
+        "loadingDate": "2025-10-04T00:00:00",
+        "loadingDateTo": "2025-10-04T00:00:00",
+        "unloading": "Екатеринбург",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.767609,
+        "unloadingLon": 60.81316,
+        "unloadingDate": "2025-10-05T00:00:00",
+        "unloadingDateTo": "2025-10-05T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": "Согласован"
+      },
+      {
+        "order": "068eab4c-9dc3-11f0-8396-3cecef7ebe1f",
+        "number": "х00048407",
+        "date": "30.09.2025 9:02:20",
+        "distance": "896,3",
+        "typets": "92 Тент",
+        "status": "4. Заказ",
+        "price": 100000,
+        "fuel": 0,
+        "loading": "индустриальный парк Новосемейкино",
+        "reg_loading": "Самарская область",
+        "loadingLat": 53.38944,
+        "loadingLon": 50.333135,
+        "loadingDate": "2025-10-01T00:00:00",
+        "loadingDateTo": "2025-10-01T00:00:00",
+        "unloading": "Екатеринбург",
+        "reg_unloading": "Свердловская область",
+        "unloadingLat": 56.767609,
+        "unloadingLon": 60.81316,
+        "unloadingDate": "2025-10-02T00:00:00",
+        "unloadingDateTo": "2025-10-02T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": "Ожидание оплаты"
+      },
+      {
+        "order": "4074f227-9dc3-11f0-8396-3cecef7ebe1f",
+        "number": "х00048408",
+        "date": "30.09.2025 9:03:57",
+        "distance": "900,9",
+        "typets": "92 Тент",
+        "status": "4. Заказ",
+        "price": 55000,
+        "fuel": 0,
+        "loading": "Екатеринбург",
+        "reg_loading": "Свердловская область",
+        "loadingLat": 56.767609,
+        "loadingLon": 60.81316,
+        "loadingDate": "2025-10-01T12:00:00",
+        "loadingDateTo": "2025-10-01T13:00:00",
+        "unloading": "индустриальный парк Новосемейкино",
+        "reg_unloading": "Самарская область",
+        "unloadingLat": 53.38944,
+        "unloadingLon": 50.333135,
+        "unloadingDate": "2025-10-02T00:00:00",
+        "unloadingDateTo": "2025-10-02T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": "На выгрузке"
+      },
+      {
+        "order": "12250529-9799-11f0-8396-3cecef7ebe1f",
+        "number": "х00047157",
+        "date": "22.09.2025 12:46:53",
+        "distance": "2 431,5",
+        "typets": "92 Тент",
+        "status": "4. Заказ",
+        "price": 221000,
+        "fuel": 0,
+        "loading": "индустриальный парк Новосемейкино",
+        "reg_loading": "Самарская область",
+        "loadingLat": 53.38944,
+        "loadingLon": 50.333135,
+        "loadingDate": "2025-09-24T00:00:00",
+        "loadingDateTo": "2025-09-24T00:00:00",
+        "unloading": "Новосибирск",
+        "reg_unloading": "Новосибирская область",
+        "unloadingLat": 55.045944,
+        "unloadingLon": 83.035261,
+        "unloadingDate": "2025-09-26T00:00:00",
+        "unloadingDateTo": "2025-09-26T00:00:00",
+        "comment": "",
+        "forwarding": "Да",
+        "logist": "Котков Денис Сергеевич",
+        "logistInfo": [
+          {
+            "tel": "79656066815"
+          },
+          {
+            "email": "9656066815@souz-logist.ru"
+          },
+          {
+            "telegram": "5249603110"
+          }
+        ],
+        "tripstatus": "Закрыт"
+      }
+    ]
+  }
+]
