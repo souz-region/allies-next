@@ -5,6 +5,10 @@
   pnpm install
   pnpm format
   pnpm dev
+
+  Service worker регистрируестя только в билде
+  pnpm build
+  pnpm preview
 ```
 
 ## Recommended IDE Setup

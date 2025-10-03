@@ -16,8 +16,8 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'Shadcn Vue PWA',
-        short_name: 'ShadcnVue',
+        name: 'Союзники',
+        short_name: 'Союзники',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
@@ -36,6 +36,7 @@ export default defineConfig({
           },
         ],
       },
+      injectRegister: 'auto',
     }),
   ],
   resolve: {
